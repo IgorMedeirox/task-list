@@ -1,3 +1,4 @@
+```markdown
 # ✅ Task Manager Mini-App
 
 Welcome to my simple, stylish JavaScript task manager! 📋✨  
@@ -38,3 +39,21 @@ tarefaCompleta.classList.toggle('done');
 
 // Removing task
 tarefaDeletada.remove();
+```
+
+---
+
+## ✍️ Author's Note
+
+This is just the beginning! I'm working on evolving my career as a developer 🚀  
+Feel free to check out more of my work or suggest improvements!
+
+---
+
+## 📎 License
+
+This project is free to use and modify. Just give credit where it's due 💙
+
+```
+
+Want me to add emojis, badges, or a demo GIF section too? Let's make this README pop like a task list on Monday morning! 😄📅✅
