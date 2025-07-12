@@ -52,7 +52,3 @@ Feel free to check out more of my work or suggest improvements!
 ## 📎 License
 
 This project is free to use and modify. Just give credit where it's due 💙
-
-```
-
-Want me to add emojis, badges, or a demo GIF section too? Let's make this README pop like a task list on Monday morning! 😄📅✅
