@@ -1,4 +1,3 @@
-```markdown
 # ✅ Task Manager Mini-App
 
 Welcome to my simple, stylish JavaScript task manager! 📋✨  
