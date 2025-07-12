@@ -1,0 +1,17 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "A simple to-do list developed in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "to-do",
+    "list",
+    "task list"
+  ],
+  "author": "Igor Medeiros",
+  "license": "ISC"
+}
